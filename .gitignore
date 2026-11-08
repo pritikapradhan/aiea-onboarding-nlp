@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+nli/models/bowman_snli/6.pth
+nli/exp_backup_run1/
+.DS_Store
+__pycache__/
+*.pyc
